@@ -1,0 +1,10 @@
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\obj\x86\Debug\RichardsSupports.csprojResolveAssemblyReference.cache
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\bin\x86\Debug\RichardsSupports.pdb
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\bin\x86\Debug\Aimtec.dll
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\bin\x86\Debug\Aimtec.SDK.dll
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\bin\x86\Debug\NLog.dll
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\bin\x86\Debug\Newtonsoft.Json.dll
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\obj\x86\Debug\RichardsSupports.pdb
+c:\users\ricky\documents\visual studio 2015\Projects\RichardsSupports\RichardsSupports\bin\x86\Debug\RichardsSupports.exe.config
+C:\Users\ricky\Documents\Visual Studio 2015\Projects\RichardsSupports\RichardsSupports\bin\x86\Debug\RichardsSupports.exe
+C:\Users\ricky\Documents\Visual Studio 2015\Projects\RichardsSupports\RichardsSupports\obj\x86\Debug\RichardsSupports.exe
